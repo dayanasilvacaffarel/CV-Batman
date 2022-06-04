@@ -1,0 +1,20 @@
+@import url(https://fonts.google.com/icons?selected=Material%20Icons%20Outlined%3Aflash_on%3A);
+
+.negrita {
+    font-weight: 700;}
+
+body {
+    font-family: 'Joan', serif;
+    background-color: #e6e6e6;}
+
+h1,h2 {
+    background-color: #c4c4c4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;}
+
+header {
+    text-align: center;}
+
+footer{
+    background-color: #005677;
+text-align: center;}    
